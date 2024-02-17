@@ -45,7 +45,7 @@
 **Full Stack Developer** \
 [**One Bit Code**](https://www.onebitcode.com/) • In progress \
 Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs`
-`Bulma` `MongoDB` `ElectronJS`
+`Bulma` `MongoDB` `ElectronJS` `React` `Nextjs` `Nodejs` `Nextjs`
 
 <br>
 
