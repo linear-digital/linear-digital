@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Tamiz+Uddin;I'm+Web+Designer+Developer)](https://git.io/typing-svg)
 
 <h3 align="center">"Talk is cheap. Show me the code"</h3>
-<h4 align="center">- Statistic -</h4>
+<h4 align="center">- Statistics -</h4>
 
 <br>
 
